@@ -1,0 +1,14 @@
+# Ignorar executáveis compilados
+atividade4
+gerador
+
+# Ignorar arquivos de teste binários
+*.bin
+
+# Ignorar objetos temporários de compilação
+*.o
+*.out
+*.exe
+
+# Ignorar arquivos de backup de editores
+*~
